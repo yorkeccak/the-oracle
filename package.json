@@ -1,0 +1,19 @@
+{
+	"name": "ValyuGeneralGPT",
+	"version": "1.0.0",
+	"description": "AI generalist research assistant that provides evidence-based answers by searching Valyu's multimodal knowledge graph with proper citations",
+	"main": "agent.js",
+	"type": "module",
+	"scripts": {
+		"start": "node agent.js"
+	},
+	"dependencies": {
+		"ai": "latest",
+		"valyu-js": "latest",
+		"zod": "latest",
+		"dotenv": "latest",
+		"@ai-sdk/anthropic": "latest",
+		"node-fetch": "latest",
+		"sharp": "latest"
+	}
+}
