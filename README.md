@@ -4,14 +4,6 @@
 
 An intelligent news and research assistant that doesn't just read text - it sees and understands images, charts, infographics, and visual content from across the web. Perfect for breaking news analysis, research deep-dives, fact-checking with visual evidence, and understanding complex topics through both text and imagery.
 
-## What Makes This Powerful
-
-- 👁️ **Vision-Enhanced Reasoning** — Understands charts, photos & diagrams alongside text.
-- ⚡ **Live Web Search** — Pulls up-to-the-minute info and images, then grounds every claim with clickable citations.
-- 💻 **Terminal-Native UX** — Runs completely in your shell; no browser, no heavy setup.
-- 🔍 **Source-Aware Answers** — Traces each insight back to the original article, dataset, or image for instant fact-checking.
-- 🔧 **Hackable & Open-Source** — Built on @aisdk; extend tools, swap models, and make it your own.
-
 ## 🚀 Getting Started — Just **2 API keys** and You're Good to Go!
 
 1. **Clone & install**
@@ -39,6 +31,15 @@ OPENAI_API_KEY=your_openai_api_key_here
 ```bash
 npm run start
 ```
+
+## What Makes This Powerful
+
+- 👁️ **Vision-Enhanced Reasoning** — Understands charts, photos & diagrams alongside text.
+- ⚡ **Live Web Search** — Pulls up-to-the-minute info and images, then grounds every claim with clickable citations.
+- 💻 **Terminal-Native UX** — Runs completely in your shell; no browser, no heavy setup.
+- 🔍 **Source-Aware Answers** — Traces each insight back to the original article, dataset, or image for instant fact-checking.
+- 🔧 **Hackable & Open-Source** — Built on @aisdk; extend tools, swap models, and make it your own.
+
 
 ## Try These Demo Questions
 
