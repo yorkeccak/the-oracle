@@ -1,6 +1,6 @@
-# The Oracle – See the Full Picture
+# The Oracle – The World's First AI Agent That Sees The Web, Right From Your Terminal
 
-> **The First AI Agent That Truly Sees The Web, Right From Your Terminal**: Goes beyond reading headlines to analyze charts, photos, diagrams, and visual content. Get real-time news analysis with complete visual context that other AI assistants miss.
+> **See the full picture**: Goes beyond reading headlines to analyze charts, photos, diagrams, and visual content. Get real-time news analysis with complete visual context that other AI assistants miss.
 
 An intelligent news and research assistant that doesn't just read text - it sees and understands images, charts, infographics, and visual content from across the web. Perfect for breaking news analysis, research deep-dives, fact-checking with visual evidence, and understanding complex topics through both text and imagery.
 
