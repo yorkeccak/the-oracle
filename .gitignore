@@ -21,6 +21,9 @@ pids
 # Coverage directory used by tools like istanbul
 coverage/
 *.lcov
+*.pem
+*.sh 
+openalex_tmp/
 
 # nyc test coverage
 .nyc_output
@@ -93,6 +96,6 @@ logs
 dist/
 build/
 
-
-
+conversation_history.json
 downloaded_images/
+
